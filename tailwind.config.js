@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],
+        sohne: ["Söhne"],
       },
       keyframes: {
         "accordion-down": {
